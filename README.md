@@ -1,0 +1,2 @@
+# artistica
+new web tamplate
