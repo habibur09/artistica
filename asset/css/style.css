@@ -1,0 +1,185 @@
+.home {
+    background: url(../images/home.png);
+    font-family: 'Raleway', sans-serif;
+}
+
+.nav-menu {
+    border-bottom: 2px solid #21222b;
+}
+
+.nav-menu li {
+    padding-left: 12px;
+}
+
+.nav-menu li a {
+    font-weight: 500;
+}
+
+.home-contant h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.first-p {
+    padding-top: 100px;
+}
+
+.last-p {
+    padding-bottom: 40px;
+}
+
+.home-contant p {
+    padding-bottom: 30px;
+}
+
+.home-contant button {
+    border-radius: 0px;
+    font-weight: 500;
+    margin-bottom: 55px;
+    margin-top: 32px;
+}
+
+.serives-contant h4 {
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.serives-contant p {
+    color: #6c7279;
+}
+
+.portfelio-contant {
+    position: relative;
+}
+
+.portfelio-contant:hover .portfelio-overlay {
+    opacity: 1;
+}
+
+.portfelio-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(232, 83, 80, 0.7);
+    opacity: 0;
+    transition: .7s;
+}
+
+.about-socal-icon i {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #ddd;
+    line-height: 30px;
+    text-align: center;
+    color: #c6cacc;
+    transition: .5s;
+    cursor: pointer;
+}
+
+.about-socal-icon i:hover {
+    color: #f92d2d;
+    border-radius: 5px;
+    border: 1px solid #767886;
+}
+
+.about-us-contant p {
+    color: #45515d;
+    text-align: justify;
+}
+
+.carousel-item h5 {
+    font-family: 'Cardo', serif;
+}
+
+.left-contant {
+    float: left;
+    width: 659px;
+}
+
+.right-contant {
+    float: right;
+    width: 660px;
+}
+
+.left-contant img {
+    height: 347px;
+}
+
+.carousel-caption {
+    bottom: 70px;
+    left: 17%;
+    width: 400px !important;
+}
+
+.carousel-caption p {
+    padding-top: 40px;
+}
+
+.dawload-contant h4 {
+    font-size: 28px;
+    padding-top: 50px;
+    color: #2d3033;
+}
+
+.dawload-contant p {
+    padding-top: 10px;
+    text-transform: uppercase;
+    color: #2d3033;
+}
+
+.dawload-contant button {
+    margin-bottom: 40px;
+    margin-top: 10px;
+    border-radius: 0px;
+}
+
+.contact {
+    background-color: #3a3e64;
+    text-align: center;
+}
+
+.contact h4 {
+    padding: 10px 0px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+.contact p {
+    color: #afb0bc;
+}
+
+.contact-contant {
+    margin-top: 20px;
+}
+
+.about-socal-img i {
+    width: 35px;
+    height: 35px;
+    border: 2px solid #ddd;
+    line-height: 35px;
+    text-align: center;
+    color: #c6cacc;
+    transition: .5s;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+.about-socal-img i:hover {
+    color: #fff;
+    border-radius: 5px;
+    border: 2px solid #767886;
+}
+
+.footer {
+    background: #313454;
+}
+
+.footer-contant span {
+    color: red;
+}
